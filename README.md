@@ -1,6 +1,7 @@
 # ipset-blocklist
 A shell application to implement CleanTalk blacklists with iptables on a Linux server.
-CleanTalk provides access to the spam IPs database. You can use the IPset format to automatically update data in your Iptables or FirewallD firewall.
+CleanTalk provides access to the spam IPs database. 
+You can use the IPset format to automatically update data in your Iptables or FirewallD firewall.
 
 You can see how to connect CleanTalk IPSet to Iptables here https://cleantalk.org/help/iptables-connect
 
