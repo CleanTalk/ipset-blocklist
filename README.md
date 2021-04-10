@@ -4,11 +4,7 @@ CleanTalk provides access to the spam IPs database. You can use the IPset format
 
 You can see how to connect CleanTalk IPSet to Iptables here https://cleantalk.org/help/iptables-connect
 
-The spam IP address database is updated once an hour. 
-
-IP addresses get into the database only if they were marked as spam on several websites in a short time, which significantly reduces the risk of false positives.
-
-All spam IP and Email addresses in files are distributed depending on their spam activity.
+The spam IP address database is updated once an hour. IP addresses get into the database only if they were marked as spam on several websites in a short time, which significantly reduces the risk of false positives. All spam IP and Email addresses in files are distributed depending on their spam activity.
 
 Offline Database. Around 10,000 IPs daily. Spam records with frequency> = 200
 
